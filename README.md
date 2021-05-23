@@ -1,6 +1,6 @@
 Corona Virus Tracker
 
-[x] Spring Boot Init
+- [x] Spring Boot Init
 	- Dependencies
 		- [x] Spring Web
 		- [x] Thymeleaf
